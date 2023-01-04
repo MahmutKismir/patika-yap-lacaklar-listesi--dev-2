@@ -1,2 +1,2 @@
-# patika-yap-lacaklar-listesi--dev-2
+# patika-yapilacaklar-listesi-ödev-2
 Js-Ödev-2
